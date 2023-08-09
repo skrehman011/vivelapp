@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591311386695",
+    "project_id": "vivel-app",
+    "storage_bucket": "vivel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591311386695:android:3508b31fa47b55954e1962",
+        "android_client_info": {
+          "package_name": "com.example.vivelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591311386695-e283r3du159rbu66i8sulpikot73mtge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV-Ano02tAZ2nMCqHIlc1U-Jp-H9PuC1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591311386695-e283r3du159rbu66i8sulpikot73mtge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
